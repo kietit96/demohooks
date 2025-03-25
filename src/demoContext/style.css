@@ -1,0 +1,10 @@
+.container {
+    padding: 0px 15px;
+    margin: 0px 15px;
+}
+
+.container button.light {
+    background-color: #f2f2f2;
+    color: #000;
+    border-color: #000;
+}
